@@ -24,6 +24,8 @@ public class Ejercicio_1 {
 		System.out.println("El resultado de la división es: " + div);
 		
 		System.out.println(in3 + in2 + in1 + in4);
+		
+		
 	}
 
 }
